@@ -1,0 +1,42 @@
+body {
+    margin: 0;
+    background-color: rgb(255, 228, 228);
+    font-size: 14px;
+}
+
+#nazwa {
+    margin-right: 50px;
+    float: left;
+}
+
+#tytul {
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+#procesor {
+    float: left;
+    margin-right: 50px;
+}
+
+#czy {
+    float: left;
+}
+
+#jak {
+    float: left;
+    margin-right: 50px;
+}
+
+#wym {
+    float: left;
+}
+
+#button {
+    float: left;
+    margin-right: 50px;
+}
+
+#button2 {
+    float: left;
+}
